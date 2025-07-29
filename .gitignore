@@ -1,0 +1,51 @@
+# ====================
+# Python
+# ====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.log
+
+# ====================
+# Virtual Environments
+# ====================
+venv/
+env/
+.venv/
+ENV/
+.ENV/
+env.bak/
+
+# ====================
+# Jupyter Notebook Checkpoints
+# ====================
+.ipynb_checkpoints/
+
+# ====================
+# System Files
+# ====================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ====================
+# VSCode / IDEs
+# ====================
+.vscode/
+.idea/
+*.code-workspace
+
+# ====================
+# Model Artifacts
+# ====================
+*.pkl
+*.joblib
+
+# ====================
+# OS Junk
+# ====================
+*.swp
+*.swo
+*~

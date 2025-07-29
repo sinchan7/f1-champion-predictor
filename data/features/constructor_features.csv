@@ -1,0 +1,31 @@
+season,constructor,wins,is_champion
+2016,Mercedes,19,1
+2016,Red Bull Racing,2,0
+2017,Ferrari,5,0
+2017,Mercedes,12,1
+2017,Red Bull Racing,3,0
+2018,Alfa Romeo,1,0
+2018,Ferrari,5,0
+2018,Mercedes,11,1
+2018,Red Bull Racing,4,0
+2019,Ferrari,2,0
+2019,Mercedes,15,1
+2019,Red Bull Racing,3,0
+2020,AlphaTauri,1,0
+2020,Mercedes,11,1
+2020,Racing Point,1,0
+2020,Red Bull Racing,2,0
+2021,Alpine,1,0
+2021,McLaren,1,0
+2021,Mercedes,9,1
+2021,Racing Point,1,0
+2021,Red Bull Racing,10,0
+2022,Ferrari,4,0
+2022,Mercedes,1,0
+2022,Red Bull Racing,17,0
+2023,Ferrari,1,0
+2023,Red Bull Racing,21,0
+2024,Ferrari,5,0
+2024,McLaren,6,1
+2024,Mercedes,4,0
+2024,Red Bull Racing,9,0

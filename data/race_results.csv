@@ -1,0 +1,188 @@
+season,round,raceName,driver,constructor
+2016,1,Australian Grand Prix,Nico Rosberg,Mercedes
+2016,2,Bahrain Grand Prix,Nico Rosberg,Mercedes
+2016,3,Chinese Grand Prix,Nico Rosberg,Mercedes
+2016,4,Russian Grand Prix,Nico Rosberg,Mercedes
+2016,5,Spanish Grand Prix,Max Verstappen,Red Bull Racing
+2016,6,Monaco Grand Prix,Lewis Hamilton,Mercedes
+2016,7,Canadian Grand Prix,Lewis Hamilton,Mercedes
+2016,8,European Grand Prix,Nico Rosberg,Mercedes
+2016,9,Austrian Grand Prix,Lewis Hamilton,Mercedes
+2016,10,British Grand Prix,Lewis Hamilton,Mercedes
+2016,11,Hungarian Grand Prix,Lewis Hamilton,Mercedes
+2016,12,German Grand Prix,Lewis Hamilton,Mercedes
+2016,13,Belgian Grand Prix,Nico Rosberg,Mercedes
+2016,14,Italian Grand Prix,Nico Rosberg,Mercedes
+2016,15,Singapore Grand Prix,Nico Rosberg,Mercedes
+2016,16,Malaysian Grand Prix,Daniel Ricciardo,Red Bull Racing
+2016,17,Japanese Grand Prix,Nico Rosberg,Mercedes
+2016,18,United States Grand Prix,Lewis Hamilton,Mercedes
+2016,19,Mexican Grand Prix,Lewis Hamilton,Mercedes
+2016,20,Brazilian Grand Prix,Lewis Hamilton,Mercedes
+2016,21,Abu Dhabi Grand Prix,Lewis Hamilton,Mercedes
+2017,1,Australian Grand Prix,Sebastian Vettel,Ferrari
+2017,2,Chinese Grand Prix,Lewis Hamilton,Mercedes
+2017,3,Bahrain Grand Prix,Sebastian Vettel,Ferrari
+2017,4,Russian Grand Prix,Vattteri Bottas,Mercedes
+2017,5,Spanish Grand Prix,Lewis Hamilton,Mercedes
+2017,6,Monaco Grand Prix,Sebastian Vettel,Ferrari
+2017,7,Canadian Grand Prix,Lewis Hamilton,Mercedes
+2017,8,Azerbaijan Grand Prix,Daniel Ricciardo,Red Bull Racing
+2017,9,Austrian Grand Prix,Valtteri Bottas,Mercedes
+2017,10,British Grand Prix,Lewis Hamilton,Mercedes
+2017,11,Hungarian Grand Prix,Sebastian Vettel,Ferrari
+2017,12,Belgian Grand Prix,Lewis Hamilton,Mercedes
+2017,13,Italian Grand Prix,Lewis Hamilton,Mercedes
+2017,14,Singapore Grand Prix,Lewis Hamilton,Mercedes
+2017,15,Malaysian Grand Prix,Max Verstappen,Red Bull Racing
+2017,16,Japanese Grand Prix,Lewis Hamilton,Mercedes
+2017,17,United States Grand Prix,Lewis Hamilton,Mercedes
+2017,18,Mexican Grand Prix,Max Verstappen,Red Bull Racing
+2017,19,Brazilian Grand Prix,Sebastian Vettel,Ferrari
+2017,20,Abu Dhabi Grand Prix,Valtteri Bottas,Mercedes
+2018,1,Australian Grand Prix,Sebastian Vettel,Ferrari
+2018,2,Bahrain Grand Prix,Sebastian Vettel,Ferrari
+2018,3,Chinese Grand Prix,Daniel Ricciardo,Red Bull Racing
+2018,4,Azerbaijan Grand Prix,Lewis Hamilton,Mercedes
+2018,5,Spanish Grand Prix,Lewis Hamilton,Mercedes
+2018,6,Monaco Grand Prix,Daniel Ricciardo,Red Bull Racing
+2018,7,Canadian Grand Prix,Sebastian Vettel,Ferrari
+2018,8,French Grand Prix,Lewis Hamilton,Mercedes
+2018,9,Austrian Grand Prix,Max Verstappen,Red Bull Racing
+2018,10,British Grand Prix,Sebastian Vettel,Ferrari
+2018,11,German Grand Prix,Lewis Hamilton,Mercedes
+2018,12,Hungarian Grand Prix,Lewis Hamilton,Mercedes
+2018,13,Belgian Grand Prix,Sebastian Vettel,Ferrari
+2018,14,Italian Grand Prix,Lewis Hamilton,Mercedes
+2018,15,Singapore Grand Prix,Lewis Hamilton,Mercedes
+2018,16,Russian Grand Prix,Lewis Hamilton,Mercedes
+2018,17,Japanese Grand Prix,Lewis Hamilton,Mercedes
+2018,18,United States Grand Prix,Kimi Räikkönen,Alfa Romeo
+2018,19,Mexican Grand Prix,Max Verstappen,Red Bull Racing
+2018,20,Brazilian Grand Prix,Lewis Hamilton,Mercedes
+2018,21,Abu Dhabi Grand Prix,Lewis Hamilton,Mercedes
+2019,1,Australian Grand Prix,Valtteri Bottas,Mercedes
+2019,2,Bahrain Grand Prix,Lewis Hamilton,Mercedes
+2019,3,Chinese Grand Prix,Lewis Hamilton,Mercedes
+2019,4,Azerbaijan Grand Prix,Vattteri Bottas,Mercedes
+2019,5,Spanish Grand Prix,Lewis Hamilton,Mercedes
+2019,6,Monaco Grand Prix,Lewis Hamilton,Mercedes
+2019,7,Canadian Grand Prix,Lewis Hamilton,Mercedes
+2019,8,French Grand Prix,Lewis Hamilton,Mercedes
+2019,9,Austrian Grand Prix,Max Verstappen,Red Bull Racing
+2019,10,British Grand Prix,Lewis Hamilton,Mercedes
+2019,11,German Grand Prix ,Max Verstappen,Red Bull Racing
+2019,12,Hungarian Grand Prix,Lewis Hamilton,Mercedes
+2019,13,Belgian Grand Prix,Charles Leclerc,Ferrari
+2019,14,Singapore Grand Prix,Sebastian Vettel,Ferrari
+2019,15,Russian Grand Prix,Lewis Hamilton,Mercedes
+2019,16,Japanese Grand Prix,Vattteri Bottas,Mercedes
+2019,17,Mexican Grand Prix,Lewis Hamilton,Mercedes
+2019,18,United States Grand Prix,Valtteri Bottas,Mercedes
+2019,19,Brazilian Grand Prix,Max Verstappen,Red Bull Racing
+2019,20,Abu Dhabi Grand Prix,Lewis Hamilton,Mercedes
+2020,1,Austrian Grand Prix,Valtteri Bottas,Mercedes
+2020,2,Steiermark Grand Prix,Lewis Hamilton,Mercedes
+2020,3,Hungarian Grand Prix,Lewis Hamilton,Mercedes
+2020,4,British Grand Prix,Lewis Hamilton,Mercedes
+2020,5,70th Anniversary Grand Prix,Max Verstappen,Red Bull Racing
+2020,6,Spanish Grand Prix,Lewis Hamilton,Mercedes
+2020,7,Belgian Grand Prix,Lewis Hamilton,Mercedes
+2020,8,Italian Grand Prix,Peter Gasly,AlphaTauri
+2020,9,Tuscan Grand Prix,Valtteri Bottas,Mercedes
+2020,10,Emilia Romagna Grand Prix,Lewis Hamilton,Mercedes
+2020,11,Portuguese Grand Prix,Lewis Hamilton,Mercedes
+2020,12,Turkish Grand Prix,Lewis Hamilton,Mercedes
+2020,13,Bahrain Grand Prix,Lewis Hamilton,Mercedes
+2020,14,Sakhir Grand Prix,Sergio Pérez,Racing Point
+2020,15,Abu Dhabi Grand Prix,Max Verstappen,Red Bull Racing
+2021,1,Bahrain Grand Prix,Lewis Hamilton,Mercedes
+2021,2,Emilia Romagna Grand Prix,Max Verstappen,Red Bull Racing
+2021,3,Portuguese Grand Prix,Lewis Hamilton,Mercedes
+2021,4,Spanish Grand Prix,Lewis Hamilton,Mercedes
+2021,5,Monaco Grand Prix,Max Verstappen,Red Bull Racing
+2021,6,Azerbaijan Grand Prix,Sergei Pérez,Racing Point
+2021,7,French Grand Prix,Max Verstappen,Red Bull Racing
+2021,8,Steiermark Grand Prix,Max Verstappen,Red Bull Racing
+2021,9,Austrian Grand Prix,Max Verstappen,Red Bull Racing
+2021,10,British Grand Prix,Lewis Hamilton,Mercedes
+2021,11,Hungarian Grand Prix,Esteban Ocon,Alpine
+2021,12,Belgian Grand Prix,Max Verstappen,Red Bull Racing
+2021,13,Dutch Grand Prix,Max Verstappen,Red Bull Racing
+2021,14,Italian Grand Prix,Daniel Ricciardo,McLaren
+2021,15,Russian Grand Prix,Lewis Hamilton,Mercedes
+2021,16,Turkish Grand Prix,Valtteri Bottas,Mercedes
+2021,17,United States Grand Prix,Max Verstappen,Red Bull Racing
+2021,18,Mexican Grand Prix,Max Verstappen,Red Bull Racing
+2021,19,Brazilian Grand Prix,Lewis Hamilton,Mercedes
+2021,20,Qatar Grand Prix,Lewis Hamilton,Mercedes
+2021,21,Saudi Arabian Grand Prix,lewis Hamilton,Mercedes
+2021,22,Abu Dhabi Grand Prix,Max Verstappen,Red Bull Racing
+2022,1,Bahrain Grand Prix,Charles Leclerc,Ferrari
+2022,2,Saudi Arabian Grand Prix,Max Verstappen,Red Bull Racing
+2022,3,Australian Grand Prix,Charles Leclerc,Ferrari
+2022,4,Emilia Romagna Grand Prix,Max Verstappen,Red Bull Racing
+2022,5,Miami Grand Prix,Max Verstappen,Red Bull Racing
+2022,6,Spanish Grand Prix,Max Verstappen,Red Bull Racing
+2022,7,Monaco Grand Prix,Sergio Pérez,Red Bull Racing
+2022,8,Azerbaijan Grand Prix,Max Verstappen,Red Bull Racing
+2022,9,Canadian Grand Prix,Max Verstappen,Red Bull Racing
+2022,10,British Grand Prix,Carlos Sainz Jr,Ferrari
+2022,11,Austrian Grand Prix,Charles Leclerc,Ferrari
+2022,12,French Grand Prix,Max Verstappen,Red Bull Racing
+2022,13,Hungarian Grand Prix,Max Verstappen,Red Bull Racing
+2022,14,Belgian Grand Prix,Max Verstappen,Red Bull Racing
+2022,15,Netherlands Grand Prix,Max Verstappen,Red Bull Racing
+2022,16,Italian Grand Prix,Max Verstappen,Red Bull Racing
+2022,17,Singapore Grand Prix,Sergio Pérez,Red Bull Racing
+2022,18,Japanese Grand Prix,Max Verstappen,Red Bull Racing
+2022,19,United States Grand Prix,Max Verstappen,Red Bull Racing
+2022,20,Mexican Grand Prix,Max Verstappen,Red Bull Racing
+2022,21,Brazilian Grand Prix,George Russell,Mercedes
+2022,22,Abu Dhabi Grand Prix,Max Verstappen,Red Bull Racing
+2023,1,Bahrain Grand Prix,Max Verstappen,Red Bull Racing
+2023,2,Saudi Arabian Grand Prix,Sergio Pérez,Red Bull Racing
+2023,3,Australian Grand Prix,Max Verstappen,Red Bull Racing
+2023,4,Azerbaijan Grand Prix,Sergio Pérez,Red Bull Racing
+2023,5,Miami Grand Prix,Max Verstappen,Red Bull Racing
+2023,6,Monaco Grand Prix,Max Verstappen,Red Bull Racing
+2023,7,Spanish Grand Prix,Max Verstappen,Red Bull Racing
+2023,8,Canadian Grand Prix,Max Verstappen,Red Bull Racing
+2023,9,Austrian Grand Prix,Max Verstappen,Red Bull Racing
+2023,10,British Grand Prix,Max Verstappen,Red Bull Racing
+2023,11,Hungarian Grand Prix,Max Verstappen,Red Bull Racing
+2023,12,Belgian Grand Prix,Max Verstappen,Red Bull Racing
+2023,13,Dutch Grand Prix,Max Verstappen,Red Bull Racing
+2023,14,Italian Grand Prix,Max Verstappen,Red Bull Racing
+2023,15,Singapore Grand Prix,Carlos Sainz Jr,Ferrari
+2023,16,Japanese Grand Prix,Max Verstappen,Red Bull Racing
+2023,17,Qatar Grand Prix,Max Verstappen,Red Bull Racing
+2023,18,United States Grand Prix,Max Verstappen,Red Bull Racing
+2023,19,Mexican Grand Prix,Max Verstappen,Red Bull Racing
+2023,20,Brazilian Grand Prix,Max Verstappen,Red Bull Racing
+2023,21,Las Vegas Grand Prix,Max Verstappen,Red Bull Racing
+2023,22,Abu Dhabi Grand Prix,Max Verstappen,Red Bull Racing
+2024,1,Bahrain Grand Prix,Max Verstappen,Red Bull Racing
+2024,2,Saudi Arabian Grand Prix,Max Verstappen,Red Bull Racing
+2024,3,Australian Grand Prix,Carlos Sainz Jr,Ferrari
+2024,4,Japanese Grand Prix,Max Verstappen,Red Bull Racing
+2024,5,Chinese Grand Prix,Max Verstappen,Red Bull Racing
+2024,6,Miami Grand Prix,Lando Norris,McLaren
+2024,7,Emilia Romagna Grand Prix,Max Verstappen,Red Bull Racing
+2024,8,Monaco Grand Prix,Charles Leclerc,Ferrari
+2024,9,Canadian Grand Prix,Max Verstappen,Red Bull Racing
+2024,10,Spanish Grand Prix,Max Verstappen,Red Bull Racing
+2024,11,Austrian Grand Prix,George Russell,Mercedes
+2024,12,British Grand Prix,Lewis Hamilton,Mercedes
+2024,13,Hungarian Grand Prix,Oscar Piastri,McLaren
+2024,14,Belgian Grand Prix,Lewis Hamilton,Mercedes
+2024,15,Dutch Grand Prix,Lando Norris,McLaren
+2024,16,Italian Grand Prix,Charles Leclerc,Ferrari
+2024,17,Azerbaijan Grand Prix,Oscar Piastri,McLaren
+2024,18,Singapore Grand Prix,Lando Norris,McLaren
+2024,19,United States Grand Prix,Charles Leclerc,Ferrari
+2024,20,Mexican Grand Prix,Carlos Sainz Jr,Ferrari
+2024,21,Brazilian Grand Prix,Max Verstappen,Red Bull Racing
+2024,22,Las Vegas Grand Prix,George Russell,Mercedes
+2024,23,Qatar Grand Prix,Max Verstappen,Red Bull Racing
+2024,24,Abu Dhabi Grand Prix,Lando Norris,McLaren

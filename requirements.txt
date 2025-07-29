@@ -1,0 +1,23 @@
+# Core Python packages
+pandas>=1.5.3
+numpy>=1.23.5
+requests>=2.28.2
+
+# Data visualization
+matplotlib>=3.7.1
+seaborn>=0.12.2
+plotly>=5.15.0
+
+# Jupyter (for notebooks)
+notebook>=6.5.4
+ipykernel>=6.25.1
+
+# Machine Learning
+scikit-learn>=1.3.0
+xgboost>=1.7.5
+
+# Dashboard (for later phase)
+streamlit>=1.24.1
+
+# Optional (for fast API-based access & parsing)
+tqdm>=4.65.0
