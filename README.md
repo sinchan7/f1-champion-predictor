@@ -13,7 +13,13 @@ This project leverages historical F1 data to train predictive models and forecas
 - 🧠 Built with **scikit-learn**, **pandas**, and **Random Forest**
 - 📂 Clean folder structure and production-ready codebase
 
----
+![image alt](https://github.com/sinchan7/f1-champion-predictor/blob/67593a5df0932112af4034d0ee78affefa4ef143/constructor%20wins.jpg)
+![image alt](https://github.com/sinchan7/f1-champion-predictor/blob/67593a5df0932112af4034d0ee78affefa4ef143/driver_by_wins.jpg)
+![image alt](https://github.com/sinchan7/f1-champion-predictor/blob/67593a5df0932112af4034d0ee78affefa4ef143/future%20champ.jpg)
+![image alt](https://github.com/sinchan7/f1-champion-predictor/blob/67593a5df0932112af4034d0ee78affefa4ef143/LECLEC.jpg)
+
+
+
 
 ## 📦 Tech Stack
 
